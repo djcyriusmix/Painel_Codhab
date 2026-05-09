@@ -1,7 +1,8 @@
 {
     "versao": "1.0.9",
     "link_download": "https://github.com/djcyriusmix/Painel_Codhab/releases/download/v1.0.9/Painel_Codhab.exe",
-    "bloqueados": [
-        ""
-    ]
+    "bloqueados": [""],
+    "desenvolvedor": "Cyro Caldas",
+    "email_suporte": "djcyriusmix@gmail.com",
+    "telefone_suporte": "+55 61 981286736"
 }
